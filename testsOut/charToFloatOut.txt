@@ -1,0 +1,2 @@
+Error: tried to assign char to type float : y = x;
+

@@ -1,0 +1,2 @@
+Expression type does not match variable type : float x = (true ? 1.0 : false);
+
